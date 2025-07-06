@@ -146,6 +146,9 @@ This bar chart compares your demand-based and competitive prices against nearby 
 
 This architecture ensures a modular, scalable, and intelligent pricing pipeline adaptable to real-time extensions.
 
+###Other Relevant Document
+[SA_Capstone_Project_Report.pdf](https://github.com/user-attachments/files/21089285/SA_Capstone_Project_Report.pdf)
+
 
 
 
